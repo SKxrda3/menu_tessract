@@ -7,3 +7,4 @@ gunicorn
 easyocr
 pandas
 tabulate
+opencv-python
