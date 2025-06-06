@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: menu-parser
+    env: docker
+    plan: free
